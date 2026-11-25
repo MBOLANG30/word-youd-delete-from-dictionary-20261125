@@ -1,15 +1,14 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The word I would delete from the dictionary forever: "irregardless".
-// It is the dictionary's own impostor — a double-negative mash-up of
-// "irrespective" and "regardless" that means the opposite of what its
-// extra prefix pretends to say, yet somehow got a dictionary entry.
-// Delete it and the language loses nothing: "regardless" already does
-// the whole job, correctly — and every time someone says "irregardless",
-// a dictionary editor somewhere quietly winces. The joke is the word
-// itself: a word that should never have been in the dictionary at all.
-const WORD = "irregardless";
+// The word I would delete from the dictionary forever: "tomorrow".
+// Delete it and there is no tomorrow: nothing is ever due tomorrow,
+// nothing can be put off until tomorrow, every deadline is today and
+// procrastination dies on the spot. The joke is the gap the word
+// leaves — erase one ordinary word and the whole future collapses
+// into today. Chosen by head-to-head ammo judging (Groq gpt-oss-120b)
+// over 8 candidates; it beat "whatever" in the final.
+const WORD = "tomorrow";
 
 const outDir = process.argv[2] ?? process.env.OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

@@ -8,13 +8,12 @@ Entry for the make.fun bounty [The Word You'd Delete From the Dictionary](https:
 
 ## The word
 
-**irregardless**
+**tomorrow**
 
-It is the dictionary's own impostor: a double-negative mash-up of
-"irrespective" and "regardless" that means the opposite of what its extra
-prefix pretends to say, yet somehow earned a dictionary entry. Delete it
-and the language loses nothing — "regardless" already does the whole job,
-correctly.
+Delete it and there is no tomorrow: nothing is ever due tomorrow, nothing
+can be put off until tomorrow, every deadline is today and procrastination
+dies on the spot. Erase one ordinary word and the whole future collapses
+into today.
 
 ## How it works
 
